@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/mathe/OneDrive/%C3%81rea%20de%20Trabalho/ml%20flow/mlruns/0/9d988484349a4000a2ddf79b1b7e4187/artifacts
+deleted_time: 1703106472085
+end_time: 1703106178580
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9d988484349a4000a2ddf79b1b7e4187
+run_name: big-frog-935
+run_uuid: 9d988484349a4000a2ddf79b1b7e4187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703106178429
+status: 3
+tags: []
+user_id: mathe

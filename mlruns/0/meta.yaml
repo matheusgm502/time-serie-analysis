@@ -1,0 +1,7 @@
+artifact_location: file:///C:/Users/mathe/OneDrive/%C3%81rea%20de%20Trabalho/ml%20flow/mlruns/0
+creation_time: 1703037279847
+experiment_id: '0'
+last_update_time: 1703106646954
+lifecycle_stage: active
+name: MLP+ARIMA+SVM
+tags: {}

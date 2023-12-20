@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/mathe/OneDrive/%C3%81rea%20de%20Trabalho/ml%20flow/mlruns/0/9209776ea46e41f8ae0d4d537a22ff3e/artifacts
+deleted_time: 1703106472071
+end_time: 1703106301671
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9209776ea46e41f8ae0d4d537a22ff3e
+run_name: inquisitive-carp-854
+run_uuid: 9209776ea46e41f8ae0d4d537a22ff3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703106301498
+status: 3
+tags: []
+user_id: mathe
